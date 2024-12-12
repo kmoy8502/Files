@@ -7,7 +7,6 @@ URL:
 Description:
 Exploring fast food chains in the NE states based on locational features such as latitude and longitude and zipcodes.
 """
-pip install matplotlib
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
